@@ -1,5 +1,7 @@
-Họ và Tên : Phan Đức Dương  
-Mã sv : 22810310282
+# Thực hành 05.04
+
+## Họ và Tên : Hà Trọng Nhân
+## MSV: 22810310279
 
 Output :
 
